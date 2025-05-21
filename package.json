@@ -1,0 +1,12 @@
+{
+  "name": "api-payment",
+  "version": "1.0.0",
+  "description": "API pembuat payment QR seperti rafaelxd.tech",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
